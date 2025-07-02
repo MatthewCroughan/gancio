@@ -70,7 +70,7 @@ export default {
 </script>
 <style>
 .eventModeration {
-    display: flex;
+    display: block;
     flex-direction: column;
     height: 100%;
 }

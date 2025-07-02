@@ -51,7 +51,7 @@ li {
 
 #events {
   margin: 0 auto;
-  display: flex;
+  display: block;
   flex-wrap: wrap;
   gap: 16px;
   justify-content: center;
@@ -136,7 +136,7 @@ li {
 }
 
 .event {
-  display: flex;
+  display: block;
   position: relative;
   flex-direction: column;
   width: 330px;

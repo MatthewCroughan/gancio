@@ -68,14 +68,14 @@ export default {
   height: auto;
   position: relative;
   overflow: hidden;
-  display: flex;
+  display: block;
   background-size: contain;
 }
 
 .img img {
   object-fit: contain;
   max-height: 125vh;
-  display: flex;
+  display: block;
   width: 100%;
   max-width: 100%;
   height: auto;
@@ -86,7 +86,7 @@ export default {
 }
 
 .img.thumb img {
-  display: flex;
+  display: block;
   max-height: 250px;
   min-height: 160px;
   object-fit: cover;

@@ -35,7 +35,7 @@ export default {
 </script>
 <style lang='scss'>
 .embed_event {
-  display: flex;
+  display: block;
   transition: margin .1s;
   background: url('/logo.png') no-repeat right 5px bottom 5px;
   background-size: 32px;

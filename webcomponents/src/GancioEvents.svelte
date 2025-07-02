@@ -214,7 +214,7 @@
   a {
     text-decoration: none;
     color: var(--text-color);
-    display: flex;
+    display: block;
     padding: 8px 20px;
     margin: 0;
     line-height: 1.275rem;

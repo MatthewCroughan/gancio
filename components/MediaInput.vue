@@ -205,7 +205,7 @@ export default {
   position: relative;
   cursor: move;
   overflow: hidden;
-  display: flex;
+  display: block;
   height: 100%;
   justify-self: center;
   align-items: center;
